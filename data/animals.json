@@ -108,42 +108,6 @@
         "loving"
       ],
       "id": "10"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "11"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "larry",
-      "species": "lemur",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "zany"
-      ],
-      "id": "13"
-    },
-    {
-      "name": "box",
-      "species": "fox",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "anxious"
-      ],
-      "id": "14"
     }
   ]
 }
